@@ -74,7 +74,6 @@ export default function Register() {
 										width="full"
 										mt={4}
 										type="submit"
-										isLoading={false}
 										_hover={{ bg: 'highlight.hover' }}
 										_active={{ bg: 'highlight.active' }}
 										_focus={{ boxShadow: 'none' }}>
